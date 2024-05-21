@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/flat-design-world-book-day-theme_23-2148489369.jpg?t=st=1716138985~exp=1716142585~hmac=4bd75295a954fd7a49a239b5e17f643f822823d792c487e89a4f31bdadf6d747&w=740"
+    },
+    {
+        "id":2,
+        "name":"Sports Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":10,
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-vector/flat-design-world-book-day-theme_23-2148489369.jpg?t=st=1716138985~exp=1716142585~hmac=4bd75295a954fd7a49a239b5e17f643f822823d792c487e89a4f31bdadf6d747&w=740"
+    },
+    {
+        "id":3,
+        "name":"Music Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":15,
+        "category":"entertainment",
+        "image":"https://img.freepik.com/free-vector/flat-design-world-book-day-theme_23-2148489369.jpg?t=st=1716138985~exp=1716142585~hmac=4bd75295a954fd7a49a239b5e17f643f822823d792c487e89a4f31bdadf6d747&w=740"
+    },
+    {
+        "id":4,
+        "name":"Food Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":12,
+        "category":"Food",
+        "image":"https://img.freepik.com/free-vector/flat-design-world-book-day-theme_23-2148489369.jpg?t=st=1716138985~exp=1716142585~hmac=4bd75295a954fd7a49a239b5e17f643f822823d792c487e89a4f31bdadf6d747&w=740"
+    },
+    {
+        "id":5,
+        "name":"Cartoon Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":20,
+        "category":"Cartoon",
+        "image":"https://img.freepik.com/free-vector/flat-design-world-book-day-theme_23-2148489369.jpg?t=st=1716138985~exp=1716142585~hmac=4bd75295a954fd7a49a239b5e17f643f822823d792c487e89a4f31bdadf6d747&w=740"
+    },
+    {
+        "id":6,
+        "name":"Magical Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Magic",
+        "image":"https://img.freepik.com/free-vector/flat-design-world-book-day-theme_23-2148489369.jpg?t=st=1716138985~exp=1716142585~hmac=4bd75295a954fd7a49a239b5e17f643f822823d792c487e89a4f31bdadf6d747&w=740"
+    },
+    {
+        "id":7,
+        "name":"Cooking Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":16,
+        "category":"Cooking",
+        "image":"https://img.freepik.com/free-vector/flat-design-world-book-day-theme_23-2148489369.jpg?t=st=1716138985~exp=1716142585~hmac=4bd75295a954fd7a49a239b5e17f643f822823d792c487e89a4f31bdadf6d747&w=740"
+    },
+    {
+        "id":8,
+        "name":"Poem Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":11,
+        "category":"Poem",
+        "image":"https://img.freepik.com/free-vector/flat-design-world-book-day-theme_23-2148489369.jpg?t=st=1716138985~exp=1716142585~hmac=4bd75295a954fd7a49a239b5e17f643f822823d792c487e89a4f31bdadf6d747&w=740"
+    },
+    {
+        "id":9,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/flat-design-world-book-day-theme_23-2148489369.jpg?t=st=1716138985~exp=1716142585~hmac=4bd75295a954fd7a49a239b5e17f643f822823d792c487e89a4f31bdadf6d747&w=740"
+    },
+    {
+        "id":10,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/flat-design-world-book-day-theme_23-2148489369.jpg?t=st=1716138985~exp=1716142585~hmac=4bd75295a954fd7a49a239b5e17f643f822823d792c487e89a4f31bdadf6d747&w=740"
+    }
+]
