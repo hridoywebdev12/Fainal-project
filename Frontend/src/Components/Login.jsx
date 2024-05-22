@@ -1,19 +1,37 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
+import React, { useContext, useState } from 'react';
+import { Link, useNavigate } from 'react-router-dom';
 import { useForm } from "react-hook-form";
+import { UserContext } from '../Context/UserContext';
+import toast from "react-hot-toast";
 
 
 const Login = () => {
+    const { logIn, user } = useContext(UserContext);
+    const [error, setError] = useState(false);
+    const navigate = useNavigate();
     const {
         register,
         handleSubmit,
         formState: { errors },
     } = useForm();
 
-    const onSubmit = (data) => console.log(data);
+    const onSubmit = (data) => {
+        console.log(data.email, data.password);
+        logIn(data.email, data.password)
+            .then((result) => {
+                if (result) {
+                    toast.success("Login Successfull.");
+                    navigate("/");
+                }
+            })
+            .catch((err) => {
+                toast.error(err.message)
+                setError(err.message)
+            });
+    };
     return (
         <div>
-            <dialog id="my_modal_3" className="modal">
+            <dialog id="my_modal_4" className="modal">
                 <div className="modal-box">
                     <form onSubmit={handleSubmit(onSubmit)} method="dialog">
                         {/* if there is a button in form, it will close the modal */}
